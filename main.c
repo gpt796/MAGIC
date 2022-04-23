@@ -11,5 +11,6 @@ int main(){
     printf("Create account with facebook\n");
 
     printf("Fingerprint Access\n");
+    printf("Facial Access\n");
 
 }
