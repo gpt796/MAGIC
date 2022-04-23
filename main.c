@@ -3,4 +3,6 @@
 
 int main(){
     printf("Main\n");
+
+    printf("Fingerprint Access\n");
 }
