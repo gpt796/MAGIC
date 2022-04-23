@@ -8,4 +8,6 @@ int main(){
 
     printf("Create account with google\n");
     printf("Create account with facebook\n");
+    printf("Paypal\n");
+
 }
