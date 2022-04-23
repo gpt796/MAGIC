@@ -19,6 +19,7 @@ int main(){
     printf("Search content by name\n");
     printf("Add Recomendation\n");
     printf("Modify Playback Speed\n");
+    printf("Add Subtitles\n");
 
     printf("Reason for unsubscribe\n");
 
