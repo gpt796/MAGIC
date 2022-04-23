@@ -11,10 +11,12 @@ int main(){
 
     printf("Create account with google\n");
     printf("Create account with facebook\n");
+    printf("Paypal\n");
     
     printf("Fingerprint Access\n");
     printf("Facial Access\n");
     printf("Search content by name\n");
 
     printf("Reason for unsubscribe\n");
+
 }
