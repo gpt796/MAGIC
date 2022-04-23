@@ -17,6 +17,7 @@ int main(){
     printf("Fingerprint Access\n");
     printf("Facial Access\n");
     printf("Search content by name\n");
+    printf("Add Recomendation\n");
 
     printf("Reason for unsubscribe\n");
 
