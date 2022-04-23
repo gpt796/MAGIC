@@ -5,6 +5,7 @@ int main(){
     printf("Main\n");
     printf("Commit_Main");
     printf("Commit_Main_2");
+    printf("Commit_Main_3");
 
     printf("Create account with google\n");
     printf("Create account with facebook\n");
